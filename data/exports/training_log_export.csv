@@ -1,0 +1,3 @@
+timestamp,year,phase,energy,current_stats,decision,reward,metadata
+2025-10-20T02:07:49.434414,Junior Year Late Sep,early,52.118644067796616,"{'spd': 318, 'sta': 157, 'pwr': 215, 'guts': 121, 'wit': 101}",spd,0.982,"{'script_version': 'v1.5', 'ai_mode': 'heuristic+memory', 'trainer_behavior': 'auto', 'priority_weight': 'LIGHT', 'session_id': 'default'}"
+2025-10-20T02:08:14.078775,Junior Year Early Oct,auto-rest,-1.0,"{'spd': 334, 'sta': 157, 'pwr': 222, 'guts': 121, 'wit': 5}",rest,0.0,"{'script_version': 'v1.5', 'ai_mode': 'auto-rest', 'priority_weight': 'LIGHT'}"

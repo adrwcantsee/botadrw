@@ -1,0 +1,98 @@
+{
+  "config_name": "Preset",
+  "priority_stat": [
+    "spd",
+    "sta",
+    "pwr",
+    "wit",
+    "guts"
+  ],
+  "priority_weights": [
+    1.25,
+    1.25,
+    1,
+    0,
+    -1
+  ],
+  "enable_training_log": true,
+"training_log_path": "logs/training_log.json",
+
+  "sleep_time_multiplier": 1,
+  "skip_training_energy": 25,
+  "never_rest_energy": 75,
+  "skip_infirmary_unless_missing_energy": 20,
+  "minimum_mood": "NORMAL",
+  "priority_weight": "LIGHT",
+  "minimum_mood_junior_year": "NORMAL",
+  "maximum_failure": 15,
+  "prioritize_g1_race": true,
+  "cancel_consecutive_race": true,
+  "position_selection_enabled": false,
+  "enable_positions_by_race": false,
+  "preferred_position": "front",
+  "positions_by_race": {
+    "sprint": "front",
+    "mile": "front",
+    "medium": "late",
+    "long": "end"
+  },
+  "race_schedule": [
+    {
+      "name": "Satsuki Sho",
+      "year": "Classic Year",
+      "date": "Early Apr"
+    },
+    {
+      "name": "Tokyo Yushun Japanese Derby",
+      "year": "Classic Year",
+      "date": "Late May"
+    },
+    {
+      "name": "Kikuka Sho",
+      "year": "Classic Year",
+      "date": "Late Oct"
+    }
+  ],
+  "stat_caps": {
+    "spd": 1150,
+    "sta": 1100,
+    "pwr": 1100,
+    "guts": 400,
+    "wit": 600
+  },
+  "skill": {
+    "is_auto_buy_skill": true,
+    "skill_pts_check": 400,
+    "skill_list": [
+      "Homestretch Haste",
+      "Go with the Flow",
+      "Focus",
+      "Concentration",
+      "Red Shift/LP1211-M",
+      "U=ma2",
+      "Professor of Curvature",
+      "Swinging Maestro"
+    ]
+  },
+  "event": {
+    "use_optimal_event_choice": true,
+    "event_choices": [
+      {
+        "event_name": "Ah, Friendship",
+        "character_name": "Kitasan Black (Fire at My Heels), Kitasan Black (Tracen Academy)",
+        "chosen": 2
+      },
+      {
+        "event_name": "Paying it Forward",
+        "character_name": "Kitasan Black (Fire at My Heels)",
+        "chosen": 1
+      },
+      {
+        "event_name": "Best Foot Forward!",
+        "character_name": "URA Finale",
+        "chosen": 2
+      }
+    ]
+  },
+  "window_name": "LDPlayer"
+}

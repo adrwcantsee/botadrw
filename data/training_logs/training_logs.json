@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": "2025-10-20T02:07:49.434414",
+    "year": "Junior Year Late Sep",
+    "phase": "early",
+    "energy": 52.118644067796616,
+    "current_stats": {
+      "spd": 318,
+      "sta": 157,
+      "pwr": 215,
+      "guts": 121,
+      "wit": 101
+    },
+    "decision": "spd",
+    "reward": 0.982,
+    "metadata": {
+      "script_version": "v1.5",
+      "ai_mode": "heuristic+memory",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T02:08:14.078775",
+    "year": "Junior Year Early Oct",
+    "phase": "auto-rest",
+    "energy": -1,
+    "current_stats": {
+      "spd": 334,
+      "sta": 157,
+      "pwr": 222,
+      "guts": 121,
+      "wit": 5
+    },
+    "decision": "rest",
+    "reward": 0,
+    "metadata": {
+      "script_version": "v1.5",
+      "ai_mode": "auto-rest",
+      "priority_weight": "LIGHT"
+    }
+  }
+]

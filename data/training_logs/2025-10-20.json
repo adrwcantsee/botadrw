@@ -1,0 +1,4484 @@
+[
+  {
+    "timestamp": "2025-10-20T02:15:02.730113",
+    "year": "Junior Year Early Oct",
+    "phase": "early",
+    "energy": 30.508474576271187,
+    "current_stats": {
+      "spd": 334,
+      "sta": 157,
+      "pwr": 222,
+      "guts": 121,
+      "wit": 101
+    },
+    "decision": "spd",
+    "reward": 1.327,
+    "metadata": {
+      "script_version": "v1.5",
+      "ai_mode": "heuristic+memory",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T02:19:56.304241",
+    "year": "Junior Year Late Oct",
+    "phase": "early",
+    "energy": 50,
+    "current_stats": {
+      "spd": 352,
+      "sta": 157,
+      "pwr": 233,
+      "guts": 121,
+      "wit": 106
+    },
+    "decision": "wit",
+    "reward": 0.868,
+    "metadata": {
+      "script_version": "v1.5",
+      "ai_mode": "heuristic+memory",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T02:20:12.326784",
+    "year": "Junior Year Early Nov",
+    "phase": "early",
+    "energy": 50,
+    "current_stats": {
+      "spd": 362,
+      "sta": 157,
+      "pwr": 235,
+      "guts": 121,
+      "wit": 117
+    },
+    "decision": "pwr",
+    "reward": 0.938,
+    "metadata": {
+      "script_version": "v1.5",
+      "ai_mode": "heuristic+memory",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T03:12:35.925147",
+    "character": "Unknown",
+    "year": "Junior Year Late Dec",
+    "phase": "early",
+    "energy": 1.694915254237288,
+    "current_stats": {
+      "spd": 375,
+      "sta": 175,
+      "pwr": 238,
+      "guts": 124,
+      "wit": 120
+    },
+    "decision": "rest",
+    "reward": 0,
+    "metadata": {
+      "script_version": "v1.5",
+      "ai_mode": "auto-rest",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T03:12:51.306745",
+    "year": "Classic Year Early Jan",
+    "phase": "mid",
+    "energy": 52.118644067796616,
+    "current_stats": {
+      "spd": 375,
+      "sta": 175,
+      "pwr": 238,
+      "guts": 124,
+      "wit": 130
+    },
+    "decision": "spd",
+    "reward": 0.608,
+    "metadata": {
+      "script_version": "v1.5",
+      "ai_mode": "heuristic+memory",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T03:13:06.266141",
+    "year": "Classic Year Late Jan",
+    "phase": "mid",
+    "energy": 29.66101694915254,
+    "current_stats": {
+      "spd": 390,
+      "sta": 175,
+      "pwr": 244,
+      "guts": 124,
+      "wit": 130
+    },
+    "decision": "wit",
+    "reward": 0.389,
+    "metadata": {
+      "script_version": "v1.5",
+      "ai_mode": "heuristic+memory",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T03:13:19.094643",
+    "year": "Classic Year Early Feb",
+    "phase": "mid",
+    "energy": 34.74576271186441,
+    "current_stats": {
+      "spd": 392,
+      "sta": 175,
+      "pwr": 244,
+      "guts": 124,
+      "wit": 140
+    },
+    "decision": "wit",
+    "reward": 0.615,
+    "metadata": {
+      "script_version": "v1.5",
+      "ai_mode": "heuristic+memory",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T03:13:51.755190",
+    "year": "Classic Year Early Mar",
+    "phase": "mid",
+    "energy": 55.08474576271186,
+    "current_stats": {
+      "spd": 404,
+      "sta": 175,
+      "pwr": 244,
+      "guts": 129,
+      "wit": 150
+    },
+    "decision": "spd",
+    "reward": 1.02,
+    "metadata": {
+      "script_version": "v1.5",
+      "ai_mode": "heuristic+memory",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T03:14:11.545123",
+    "year": "Classic Year Late Mar",
+    "phase": "mid",
+    "energy": 32.6271186440678,
+    "current_stats": {
+      "spd": 432,
+      "sta": 175,
+      "pwr": 253,
+      "guts": 129,
+      "wit": 155
+    },
+    "decision": "wit",
+    "reward": 0.623,
+    "metadata": {
+      "script_version": "v1.5",
+      "ai_mode": "heuristic+memory",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T03:15:12.178332",
+    "character": "Unknown",
+    "year": "Classic Year Late Apr",
+    "phase": "mid",
+    "energy": 22.45762711864407,
+    "current_stats": {
+      "spd": 554,
+      "sta": 175,
+      "pwr": 253,
+      "guts": 134,
+      "wit": 167
+    },
+    "decision": "rest",
+    "reward": 0,
+    "metadata": {
+      "script_version": "v1.5",
+      "ai_mode": "auto-rest",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T03:15:23.189018",
+    "year": "Classic Year Early May",
+    "phase": "mid",
+    "energy": 53.38983050847458,
+    "current_stats": {
+      "spd": 554,
+      "sta": 175,
+      "pwr": 253,
+      "guts": 134,
+      "wit": 167
+    },
+    "decision": "sta",
+    "reward": 1.057,
+    "metadata": {
+      "script_version": "v1.5",
+      "ai_mode": "heuristic+memory",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T03:36:02.612454",
+    "character": "Unknown",
+    "year": "Junior Year Pre-Debut",
+    "phase": "early",
+    "energy": 100.0,
+    "current_stats": {
+      "spd": 208,
+      "sta": 102,
+      "pwr": 149,
+      "guts": 74,
+      "wit": 91
+    },
+    "decision": "sta",
+    "reward": 1.625,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T03:36:20.830858",
+    "character": "Unknown",
+    "year": "Junior Year Pre-Debut",
+    "phase": "early",
+    "energy": 83.89830508474576,
+    "current_stats": {
+      "spd": 208,
+      "sta": 116,
+      "pwr": 149,
+      "guts": 79,
+      "wit": 91
+    },
+    "decision": "sta",
+    "reward": 1.229,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T03:36:42.222692",
+    "character": "Unknown",
+    "year": "Junior Year Pre-Debut",
+    "phase": "early",
+    "energy": 75.0,
+    "current_stats": {
+      "spd": 208,
+      "sta": 127,
+      "pwr": 149,
+      "guts": 84,
+      "wit": 91
+    },
+    "decision": "spd",
+    "reward": 1.232,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T03:37:05.169035",
+    "character": "Unknown",
+    "year": "Junior Year Pre-Debut",
+    "phase": "early",
+    "energy": 53.813559322033896,
+    "current_stats": {
+      "spd": 228,
+      "sta": 127,
+      "pwr": 157,
+      "guts": 84,
+      "wit": 91
+    },
+    "decision": "wit",
+    "reward": 0.937,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T03:37:30.083795",
+    "character": "Unknown",
+    "year": "Junior Year Pre-Debut",
+    "phase": "early",
+    "energy": 58.47457627118644,
+    "current_stats": {
+      "spd": 233,
+      "sta": 132,
+      "pwr": 162,
+      "guts": 84,
+      "wit": 104
+    },
+    "decision": "guts",
+    "reward": 0.943,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T03:37:52.069013",
+    "character": "Unknown",
+    "year": "Junior Year Pre-Debut",
+    "phase": "early",
+    "energy": 36.016949152542374,
+    "current_stats": {
+      "spd": 247,
+      "sta": 132,
+      "pwr": 170,
+      "guts": 96,
+      "wit": 109
+    },
+    "decision": "rest",
+    "reward": 0,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "auto-rest"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T03:38:12.203712",
+    "character": "Unknown",
+    "year": "Junior Year Pre-Debut",
+    "phase": "early",
+    "energy": 87.28813559322035,
+    "current_stats": {
+      "spd": 247,
+      "sta": 132,
+      "pwr": 180,
+      "guts": 96,
+      "wit": 109
+    },
+    "decision": "sta",
+    "reward": 1.253,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T03:38:37.224195",
+    "character": "Unknown",
+    "year": "Junior Year Pre-Debut",
+    "phase": "early",
+    "energy": 67.79661016949152,
+    "current_stats": {
+      "spd": 250,
+      "sta": 146,
+      "pwr": 183,
+      "guts": 101,
+      "wit": 112
+    },
+    "decision": "spd",
+    "reward": 1.258,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T03:39:12.468558",
+    "character": "Unknown",
+    "year": "Junior Year Pre-Debut",
+    "phase": "early",
+    "energy": 46.61016949152542,
+    "current_stats": {
+      "spd": 290,
+      "sta": 166,
+      "pwr": 213,
+      "guts": 121,
+      "wit": 132
+    },
+    "decision": "rest",
+    "reward": 0,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "auto-rest"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T03:39:32.646372",
+    "character": "Unknown",
+    "year": "Junior Year Pre-Debut",
+    "phase": "early",
+    "energy": 87.28813559322035,
+    "current_stats": {
+      "spd": 290,
+      "sta": 171,
+      "pwr": 218,
+      "guts": 121,
+      "wit": 132
+    },
+    "decision": "sta",
+    "reward": 1.686,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T03:39:55.934954",
+    "character": "Unknown",
+    "year": "Junior Year Pre-Debut",
+    "phase": "early",
+    "energy": 67.79661016949152,
+    "current_stats": {
+      "spd": 290,
+      "sta": 188,
+      "pwr": 223,
+      "guts": 127,
+      "wit": 137
+    },
+    "decision": "spd",
+    "reward": 1.293,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T03:41:02.183741",
+    "character": "Unknown",
+    "year": "Junior Year Early Jul",
+    "phase": "early",
+    "energy": 51.271186440677965,
+    "current_stats": {
+      "spd": 308,
+      "sta": 196,
+      "pwr": 239,
+      "guts": 127,
+      "wit": 140
+    },
+    "decision": "spd",
+    "reward": 1.002,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T03:41:24.674997",
+    "character": "Unknown",
+    "year": "Junior Year Late Jul",
+    "phase": "early",
+    "energy": 30.08474576271186,
+    "current_stats": {
+      "spd": 328,
+      "sta": 196,
+      "pwr": 249,
+      "guts": 127,
+      "wit": 140
+    },
+    "decision": "wit",
+    "reward": 1.384,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T03:41:42.784868",
+    "character": "Unknown",
+    "year": "Junior Year Early Aug",
+    "phase": "early",
+    "energy": 35.16949152542373,
+    "current_stats": {
+      "spd": 331,
+      "sta": 196,
+      "pwr": 249,
+      "guts": 127,
+      "wit": 154
+    },
+    "decision": "spd",
+    "reward": 1.351,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T03:42:01.410321",
+    "character": "Unknown",
+    "year": "Junior Year Late Aug",
+    "phase": "early",
+    "energy": 12.711864406779661,
+    "current_stats": {
+      "spd": 354,
+      "sta": 196,
+      "pwr": 262,
+      "guts": 127,
+      "wit": 154
+    },
+    "decision": "rest",
+    "reward": 0,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "auto-rest"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T03:42:24.031025",
+    "character": "Unknown",
+    "year": "Junior Year Early Sep",
+    "phase": "early",
+    "energy": 63.983050847457626,
+    "current_stats": {
+      "spd": 356,
+      "sta": 196,
+      "pwr": 264,
+      "guts": 127,
+      "wit": 156
+    },
+    "decision": "wit",
+    "reward": 1.72,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T03:42:47.114361",
+    "character": "Unknown",
+    "year": "Junior Year Late Sep",
+    "phase": "early",
+    "energy": 69.0677966101695,
+    "current_stats": {
+      "spd": 360,
+      "sta": 198,
+      "pwr": 270,
+      "guts": 127,
+      "wit": 172
+    },
+    "decision": "spd",
+    "reward": 1.725,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T03:43:14.176850",
+    "character": "Unknown",
+    "year": "Junior Year Early Oct",
+    "phase": "early",
+    "energy": 31.35593220338983,
+    "current_stats": {
+      "spd": 391,
+      "sta": 198,
+      "pwr": 285,
+      "guts": 127,
+      "wit": 172
+    },
+    "decision": "spd",
+    "reward": 1.375,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T03:43:54.901563",
+    "character": "Unknown",
+    "year": "Junior Year Early Nov",
+    "phase": "early",
+    "energy": 82.20338983050848,
+    "current_stats": {
+      "spd": 386,
+      "sta": 198,
+      "pwr": 285,
+      "guts": 127,
+      "wit": 172
+    },
+    "decision": "sta",
+    "reward": 1.334,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T03:44:19.326041",
+    "character": "Unknown",
+    "year": "Junior Year Late Nov",
+    "phase": "early",
+    "energy": 61.86440677966102,
+    "current_stats": {
+      "spd": 396,
+      "sta": 214,
+      "pwr": 295,
+      "guts": 133,
+      "wit": 172
+    },
+    "decision": "spd",
+    "reward": 1.342,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T03:45:30.963534",
+    "character": "Unknown",
+    "year": "Junior Year Late Dec",
+    "phase": "early",
+    "energy": 8.47457627118644,
+    "current_stats": {
+      "spd": 430,
+      "sta": 222,
+      "pwr": 316,
+      "guts": 136,
+      "wit": 175
+    },
+    "decision": "rest",
+    "reward": 0,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "auto-rest"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T03:45:49.854151",
+    "character": "Unknown",
+    "year": "Classic Year Early Jan",
+    "phase": "mid",
+    "energy": 80.08474576271186,
+    "current_stats": {
+      "spd": 430,
+      "sta": 222,
+      "pwr": 316,
+      "guts": 136,
+      "wit": 185
+    },
+    "decision": "pwr",
+    "reward": 1.758,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T03:46:11.557214",
+    "character": "Unknown",
+    "year": "Classic Year Late Jan",
+    "phase": "mid",
+    "energy": 59.7457627118644,
+    "current_stats": {
+      "spd": 430,
+      "sta": 235,
+      "pwr": 338,
+      "guts": 136,
+      "wit": 185
+    },
+    "decision": "rest",
+    "reward": 0,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "auto-rest"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T03:46:26.786969",
+    "character": "Unknown",
+    "year": "Classic Year Early Feb",
+    "phase": "mid",
+    "energy": 100,
+    "current_stats": {
+      "spd": 430,
+      "sta": 235,
+      "pwr": 338,
+      "guts": 136,
+      "wit": 185
+    },
+    "decision": "spd",
+    "reward": 1.365,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T03:46:55.395449",
+    "character": "Unknown",
+    "year": "Classic Year Late Feb",
+    "phase": "mid",
+    "energy": 85.16949152542372,
+    "current_stats": {
+      "spd": 458,
+      "sta": 235,
+      "pwr": 348,
+      "guts": 136,
+      "wit": 185
+    },
+    "decision": "spd",
+    "reward": 1.372,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T03:47:22.272345",
+    "character": "Unknown",
+    "year": "Classic Year Early Mar",
+    "phase": "mid",
+    "energy": 61.86440677966102,
+    "current_stats": {
+      "spd": 486,
+      "sta": 245,
+      "pwr": 367,
+      "guts": 136,
+      "wit": 185
+    },
+    "decision": "spd",
+    "reward": 1.384,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T03:47:43.116778",
+    "character": "Unknown",
+    "year": "Classic Year Late Mar",
+    "phase": "mid",
+    "energy": 38.559322033898304,
+    "current_stats": {
+      "spd": 512,
+      "sta": 245,
+      "pwr": 379,
+      "guts": 136,
+      "wit": 185
+    },
+    "decision": "wit",
+    "reward": 1.091,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T03:48:58.550603",
+    "character": "Unknown",
+    "year": "Classic Year Late Apr",
+    "phase": "mid",
+    "energy": 22.88135593220339,
+    "current_stats": {
+      "spd": 632,
+      "sta": 245,
+      "pwr": 391,
+      "guts": 141,
+      "wit": 206
+    },
+    "decision": "rest",
+    "reward": 0,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "auto-rest"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T03:49:16.344332",
+    "character": "Unknown",
+    "year": "Classic Year Early May",
+    "phase": "mid",
+    "energy": 74.15254237288136,
+    "current_stats": {
+      "spd": 632,
+      "sta": 245,
+      "pwr": 391,
+      "guts": 141,
+      "wit": 216
+    },
+    "decision": "pwr",
+    "reward": 1.825,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T03:50:55.138179",
+    "character": "Unknown",
+    "year": "Classic Year Early Jun",
+    "phase": "mid",
+    "energy": 53.813559322033896,
+    "current_stats": {
+      "spd": 638,
+      "sta": 263,
+      "pwr": 418,
+      "guts": 147,
+      "wit": 222
+    },
+    "decision": "sta",
+    "reward": 1.138,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T03:51:16.409353",
+    "character": "Unknown",
+    "year": "Classic Year Late Jun",
+    "phase": "mid",
+    "energy": 33.05084745762712,
+    "current_stats": {
+      "spd": 638,
+      "sta": 280,
+      "pwr": 418,
+      "guts": 153,
+      "wit": 222
+    },
+    "decision": "rest",
+    "reward": 0,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "auto-rest"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T03:51:33.497908",
+    "character": "Unknown",
+    "year": "Classic Year Early Jul",
+    "phase": "mid",
+    "energy": 84.32203389830508,
+    "current_stats": {
+      "spd": 638,
+      "sta": 280,
+      "pwr": 418,
+      "guts": 153,
+      "wit": 222
+    },
+    "decision": "wit",
+    "reward": 1.842,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T03:51:53.510836",
+    "character": "Unknown",
+    "year": "Classic Year Late Jul",
+    "phase": "mid",
+    "energy": 89.40677966101694,
+    "current_stats": {
+      "spd": 650,
+      "sta": 280,
+      "pwr": 418,
+      "guts": 153,
+      "wit": 248
+    },
+    "decision": "spd",
+    "reward": 1.45,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T03:52:11.706891",
+    "character": "Unknown",
+    "year": "Classic Year Early _ Aug",
+    "phase": "mid",
+    "energy": 61.86440677966102,
+    "current_stats": {
+      "spd": 699,
+      "sta": 280,
+      "pwr": 442,
+      "guts": 153,
+      "wit": 248
+    },
+    "decision": "spd",
+    "reward": 1.464,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T03:52:40.968495",
+    "character": "Unknown",
+    "year": "Classic Year Late Aug",
+    "phase": "mid",
+    "energy": 33.89830508474576,
+    "current_stats": {
+      "spd": 735,
+      "sta": 280,
+      "pwr": 469,
+      "guts": 153,
+      "wit": 248
+    },
+    "decision": "rest",
+    "reward": 0,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "auto-rest"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T03:53:03.099660",
+    "character": "Unknown",
+    "year": "Classic Year Early Sep",
+    "phase": "mid",
+    "energy": 75.0,
+    "current_stats": {
+      "spd": 740,
+      "sta": 280,
+      "pwr": 469,
+      "guts": 158,
+      "wit": 253
+    },
+    "decision": "spd",
+    "reward": 1.48,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T03:53:31.421581",
+    "character": "Unknown",
+    "year": "Classic Year Late Sep",
+    "phase": "mid",
+    "energy": 51.271186440677965,
+    "current_stats": {
+      "spd": 794,
+      "sta": 280,
+      "pwr": 487,
+      "guts": 158,
+      "wit": 258
+    },
+    "decision": "guts",
+    "reward": 1.195,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T03:53:53.661555",
+    "character": "Unknown",
+    "year": "Classic Year Early Oct",
+    "phase": "mid",
+    "energy": 29.23728813559322,
+    "current_stats": {
+      "spd": 803,
+      "sta": 280,
+      "pwr": 495,
+      "guts": 170,
+      "wit": 258
+    },
+    "decision": "rest",
+    "reward": 0,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "auto-rest"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T03:54:45.519742",
+    "character": "Unknown",
+    "year": "Classic Year Early Nov",
+    "phase": "mid",
+    "energy": 33.89830508474576,
+    "current_stats": {
+      "spd": 813,
+      "sta": 284,
+      "pwr": 495,
+      "guts": 170,
+      "wit": 258
+    },
+    "decision": "wit",
+    "reward": 0.801,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T03:55:56.780975",
+    "character": "Unknown",
+    "year": "Classic Year Early Dec",
+    "phase": "mid",
+    "energy": 29.23728813559322,
+    "current_stats": {
+      "spd": 819,
+      "sta": 290,
+      "pwr": 501,
+      "guts": 181,
+      "wit": 276
+    },
+    "decision": "rest",
+    "reward": 0,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "auto-rest"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T03:57:06.135158",
+    "character": "Unknown",
+    "year": "Senior Year Early Jan",
+    "phase": "late",
+    "energy": 90.2542372881356,
+    "current_stats": {
+      "spd": 822,
+      "sta": 293,
+      "pwr": 504,
+      "guts": 184,
+      "wit": 279
+    },
+    "decision": "spd",
+    "reward": 2.316,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T03:57:31.252574",
+    "character": "Unknown",
+    "year": "Senior Year Late Jan",
+    "phase": "late",
+    "energy": 87.28813559322035,
+    "current_stats": {
+      "spd": 880,
+      "sta": 298,
+      "pwr": 535,
+      "guts": 189,
+      "wit": 284
+    },
+    "decision": "pwr",
+    "reward": 1.537,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T03:57:52.461745",
+    "character": "Unknown",
+    "year": "Senior Year Early Feb",
+    "phase": "late",
+    "energy": 66.94915254237289,
+    "current_stats": {
+      "spd": 880,
+      "sta": 307,
+      "pwr": 553,
+      "guts": 189,
+      "wit": 284
+    },
+    "decision": "spd",
+    "reward": 1.543,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T03:58:14.370528",
+    "character": "Unknown",
+    "year": "Senior Year Late Feb",
+    "phase": "late",
+    "energy": 41.10169491525424,
+    "current_stats": {
+      "spd": 913,
+      "sta": 307,
+      "pwr": 572,
+      "guts": 189,
+      "wit": 284
+    },
+    "decision": "wit",
+    "reward": 0.453,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T03:58:35.396788",
+    "character": "Unknown",
+    "year": "Senior Year Early Mar",
+    "phase": "late",
+    "energy": 46.61016949152542,
+    "current_stats": {
+      "spd": 915,
+      "sta": 307,
+      "pwr": 572,
+      "guts": 189,
+      "wit": 295
+    },
+    "decision": "rest",
+    "reward": 0,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "auto-rest"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T03:58:54.284447",
+    "character": "Unknown",
+    "year": "Senior Year Late Mar",
+    "phase": "late",
+    "energy": 97.45762711864407,
+    "current_stats": {
+      "spd": 915,
+      "sta": 307,
+      "pwr": 572,
+      "guts": 189,
+      "wit": 295
+    },
+    "decision": "pwr",
+    "reward": 2.356,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T03:59:39.760003",
+    "character": "Unknown",
+    "year": "Senior Year Early Apr",
+    "phase": "late",
+    "energy": 77.11864406779661,
+    "current_stats": {
+      "spd": 1032,
+      "sta": 320,
+      "pwr": 600,
+      "guts": 189,
+      "wit": 295
+    },
+    "decision": "spd",
+    "reward": 1.987,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T04:00:13.968986",
+    "character": "Unknown",
+    "year": "Senior Year Late Apr",
+    "phase": "late",
+    "energy": 46.61016949152542,
+    "current_stats": {
+      "spd": 1107,
+      "sta": 320,
+      "pwr": 627,
+      "guts": 189,
+      "wit": 295
+    },
+    "decision": "sta",
+    "reward": 1.675,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T04:00:36.434490",
+    "character": "Unknown",
+    "year": "Senior Year Early May",
+    "phase": "late",
+    "energy": 25.847457627118644,
+    "current_stats": {
+      "spd": 1107,
+      "sta": 346,
+      "pwr": 627,
+      "guts": 198,
+      "wit": 295
+    },
+    "decision": "rest",
+    "reward": 0,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "auto-rest"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T04:00:54.364052",
+    "character": "Unknown",
+    "year": "Senior Year Late May",
+    "phase": "late",
+    "energy": 77.11864406779661,
+    "current_stats": {
+      "spd": 1107,
+      "sta": 346,
+      "pwr": 627,
+      "guts": 198,
+      "wit": 305
+    },
+    "decision": "pwr",
+    "reward": 1.617,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T04:01:18.073636",
+    "character": "Unknown",
+    "year": "Senior Year Early Jun",
+    "phase": "late",
+    "energy": 55.50847457627118,
+    "current_stats": {
+      "spd": 1107,
+      "sta": 357,
+      "pwr": 653,
+      "guts": 198,
+      "wit": 305
+    },
+    "decision": "sta",
+    "reward": 1.324,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T04:02:22.215507",
+    "character": "Unknown",
+    "year": "Senior Year Early Jul",
+    "phase": "late",
+    "energy": 35.16949152542373,
+    "current_stats": {
+      "spd": 1110,
+      "sta": 383,
+      "pwr": 656,
+      "guts": 209,
+      "wit": 308
+    },
+    "decision": "wit",
+    "reward": 0.933,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T04:02:39.966620",
+    "character": "Unknown",
+    "year": "Senior Year Late Jul",
+    "phase": "late",
+    "energy": 40.25423728813559,
+    "current_stats": {
+      "spd": 1116,
+      "sta": 383,
+      "pwr": 656,
+      "guts": 209,
+      "wit": 325
+    },
+    "decision": "wit",
+    "reward": 1.738,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T04:03:00.100497",
+    "character": "Unknown",
+    "year": "Senior Year Early Aug",
+    "phase": "late",
+    "energy": 45.33898305084746,
+    "current_stats": {
+      "spd": 1126,
+      "sta": 383,
+      "pwr": 656,
+      "guts": 209,
+      "wit": 348
+    },
+    "decision": "sta",
+    "reward": 0.899,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T04:03:21.066655",
+    "character": "Unknown",
+    "year": "Senior Year Late Aug",
+    "phase": "late",
+    "energy": 19.915254237288135,
+    "current_stats": {
+      "spd": 1126,
+      "sta": 408,
+      "pwr": 656,
+      "guts": 219,
+      "wit": 348
+    },
+    "decision": "rest",
+    "reward": 0,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "auto-rest"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T04:03:39.173463",
+    "character": "Unknown",
+    "year": "Senior Year Early Sep",
+    "phase": "late",
+    "energy": 60.59322033898306,
+    "current_stats": {
+      "spd": 1131,
+      "sta": 408,
+      "pwr": 656,
+      "guts": 224,
+      "wit": 353
+    },
+    "decision": "pwr",
+    "reward": 2.054,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T04:04:03.587473",
+    "character": "Unknown",
+    "year": "Senior Year Late Sep",
+    "phase": "late",
+    "energy": 39.40677966101695,
+    "current_stats": {
+      "spd": 1141,
+      "sta": 421,
+      "pwr": 692,
+      "guts": 224,
+      "wit": 353
+    },
+    "decision": "wit",
+    "reward": 0.566,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T04:05:44.011944",
+    "character": "Unknown",
+    "year": "Senior Year Late Oct",
+    "phase": "late",
+    "energy": 44.49152542372881,
+    "current_stats": {
+      "spd": 1151,
+      "sta": 426,
+      "pwr": 690,
+      "guts": 227,
+      "wit": 368
+    },
+    "decision": "rest",
+    "reward": 0,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "auto-rest"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T04:06:00.619717",
+    "character": "Unknown",
+    "year": "Senior Year Early Nov",
+    "phase": "late",
+    "energy": 75.0,
+    "current_stats": {
+      "spd": 1151,
+      "sta": 426,
+      "pwr": 690,
+      "guts": 227,
+      "wit": 368
+    },
+    "decision": "wit",
+    "reward": 2.072,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T04:06:23.792908",
+    "character": "Unknown",
+    "year": "Senior Year Late Nov",
+    "phase": "late",
+    "energy": 80.08474576271186,
+    "current_stats": {
+      "spd": 1154,
+      "sta": 426,
+      "pwr": 690,
+      "guts": 227,
+      "wit": 397
+    },
+    "decision": "guts",
+    "reward": 1.279,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T04:06:48.619090",
+    "character": "Unknown",
+    "year": "Senior Year Early Dec",
+    "phase": "late",
+    "energy": 57.6271186440678,
+    "current_stats": {
+      "spd": 1160,
+      "sta": 426,
+      "pwr": 696,
+      "guts": 237,
+      "wit": 397
+    },
+    "decision": "wit",
+    "reward": 0.983,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T04:07:55.456410",
+    "character": "Unknown",
+    "year": "Finale Season",
+    "phase": "unknown",
+    "energy": 62.71186440677966,
+    "current_stats": {
+      "spd": 1165,
+      "sta": 429,
+      "pwr": 699,
+      "guts": 240,
+      "wit": 413
+    },
+    "decision": "sta",
+    "reward": 2.489,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T04:10:33.529496",
+    "character": "Unknown",
+    "year": "Finale Season",
+    "phase": "unknown",
+    "energy": 41.10169491525424,
+    "current_stats": {
+      "spd": 1177,
+      "sta": 469,
+      "pwr": 711,
+      "guts": 261,
+      "wit": 425
+    },
+    "decision": "rest",
+    "reward": 0,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "auto-rest"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T04:11:17.827260",
+    "character": "Unknown",
+    "year": "Finale Season",
+    "phase": "unknown",
+    "energy": 72.03389830508475,
+    "current_stats": {
+      "spd": 1189,
+      "sta": 481,
+      "pwr": 723,
+      "guts": 273,
+      "wit": 437
+    },
+    "decision": "wit",
+    "reward": 2.121,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T09:48:39.229597",
+    "character": "Unknown",
+    "year": "Junior Year Pre-Debut",
+    "phase": "early",
+    "energy": 100.0,
+    "current_stats": {
+      "spd": 166,
+      "sta": 123,
+      "pwr": 149,
+      "guts": 74,
+      "wit": 103
+    },
+    "decision": "spd",
+    "reward": 0.823,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T09:48:53.669709",
+    "character": "Unknown",
+    "year": "Junior Year Pre-Debut",
+    "phase": "early",
+    "energy": 81.35593220338984,
+    "current_stats": {
+      "spd": 180,
+      "sta": 123,
+      "pwr": 155,
+      "guts": 74,
+      "wit": 103
+    },
+    "decision": "pwr",
+    "reward": 1.227,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T09:49:06.137070",
+    "character": "Unknown",
+    "year": "Junior Year Pre-Debut",
+    "phase": "early",
+    "energy": 61.440677966101696,
+    "current_stats": {
+      "spd": 180,
+      "sta": 131,
+      "pwr": 168,
+      "guts": 74,
+      "wit": 103
+    },
+    "decision": "spd",
+    "reward": 1.631,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T09:49:28.648976",
+    "character": "Unknown",
+    "year": "Junior Year Pre-Debut",
+    "phase": "early",
+    "energy": 39.83050847457627,
+    "current_stats": {
+      "spd": 197,
+      "sta": 136,
+      "pwr": 184,
+      "guts": 74,
+      "wit": 103
+    },
+    "decision": "rest",
+    "reward": 0,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "auto-rest"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T09:49:45.071315",
+    "character": "Unknown",
+    "year": "Junior Year Pre-Debut",
+    "phase": "early",
+    "energy": 100,
+    "current_stats": {
+      "spd": 197,
+      "sta": 136,
+      "pwr": 184,
+      "guts": 74,
+      "wit": 103
+    },
+    "decision": "guts",
+    "reward": 1.239,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T09:49:59.678753",
+    "character": "Unknown",
+    "year": "Junior Year Pre-Debut",
+    "phase": "early",
+    "energy": 79.23728813559322,
+    "current_stats": {
+      "spd": 208,
+      "sta": 136,
+      "pwr": 191,
+      "guts": 85,
+      "wit": 108
+    },
+    "decision": "guts",
+    "reward": 1.646,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T09:50:18.746643",
+    "character": "Unknown",
+    "year": "Junior Year Pre-Debut",
+    "phase": "early",
+    "energy": 56.779661016949156,
+    "current_stats": {
+      "spd": 217,
+      "sta": 136,
+      "pwr": 200,
+      "guts": 98,
+      "wit": 108
+    },
+    "decision": "spd",
+    "reward": 1.352,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T09:50:33.680135",
+    "character": "Unknown",
+    "year": "Junior Year Pre-Debut",
+    "phase": "early",
+    "energy": 35.16949152542373,
+    "current_stats": {
+      "spd": 244,
+      "sta": 136,
+      "pwr": 216,
+      "guts": 98,
+      "wit": 108
+    },
+    "decision": "rest",
+    "reward": 0,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "auto-rest"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T09:50:49.012190",
+    "character": "Unknown",
+    "year": "Junior Year Pre-Debut",
+    "phase": "early",
+    "energy": 100,
+    "current_stats": {
+      "spd": 244,
+      "sta": 136,
+      "pwr": 216,
+      "guts": 98,
+      "wit": 108
+    },
+    "decision": "spd",
+    "reward": 1.26,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T09:51:07.699227",
+    "character": "Unknown",
+    "year": "Junior Year Pre-Debut",
+    "phase": "early",
+    "energy": 86.4406779661017,
+    "current_stats": {
+      "spd": 269,
+      "sta": 136,
+      "pwr": 229,
+      "guts": 103,
+      "wit": 108
+    },
+    "decision": "pwr",
+    "reward": 1.269,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T09:51:25.254574",
+    "character": "Unknown",
+    "year": "Junior Year Pre-Debut",
+    "phase": "early",
+    "energy": 65.67796610169492,
+    "current_stats": {
+      "spd": 269,
+      "sta": 146,
+      "pwr": 244,
+      "guts": 103,
+      "wit": 118
+    },
+    "decision": "wit",
+    "reward": 1.276,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T09:52:15.505586",
+    "character": "Unknown",
+    "year": "Junior Year Early Jul",
+    "phase": "early",
+    "energy": 71.1864406779661,
+    "current_stats": {
+      "spd": 277,
+      "sta": 149,
+      "pwr": 244,
+      "guts": 106,
+      "wit": 142
+    },
+    "decision": "spd",
+    "reward": 1.684,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T09:52:33.947805",
+    "character": "Unknown",
+    "year": "Junior Year Late Jul",
+    "phase": "early",
+    "energy": 48.30508474576271,
+    "current_stats": {
+      "spd": 305,
+      "sta": 149,
+      "pwr": 259,
+      "guts": 106,
+      "wit": 142
+    },
+    "decision": "rest",
+    "reward": 0,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "auto-rest"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T09:52:48.820937",
+    "character": "Unknown",
+    "year": "Junior Year Early Aug",
+    "phase": "early",
+    "energy": 100,
+    "current_stats": {
+      "spd": 305,
+      "sta": 149,
+      "pwr": 259,
+      "guts": 106,
+      "wit": 142
+    },
+    "decision": "sta",
+    "reward": 1.292,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T09:53:08.481814",
+    "character": "Unknown",
+    "year": "Junior Year Late Aug",
+    "phase": "early",
+    "energy": 88.13559322033898,
+    "current_stats": {
+      "spd": 307,
+      "sta": 163,
+      "pwr": 261,
+      "guts": 112,
+      "wit": 144
+    },
+    "decision": "spd",
+    "reward": 1.697,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T09:53:26.397410",
+    "character": "Unknown",
+    "year": "Junior Year Early Sep",
+    "phase": "early",
+    "energy": 55.50847457627118,
+    "current_stats": {
+      "spd": 336,
+      "sta": 168,
+      "pwr": 279,
+      "guts": 112,
+      "wit": 144
+    },
+    "decision": "spd",
+    "reward": 1.408,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T09:53:47.357151",
+    "character": "Unknown",
+    "year": "Junior Year Late Sep",
+    "phase": "early",
+    "energy": 43.22033898305085,
+    "current_stats": {
+      "spd": 364,
+      "sta": 168,
+      "pwr": 291,
+      "guts": 112,
+      "wit": 144
+    },
+    "decision": "rest",
+    "reward": 0,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "auto-rest"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T09:53:58.497166",
+    "character": "Unknown",
+    "year": "Junior Year Early Oct",
+    "phase": "early",
+    "energy": 94.49152542372882,
+    "current_stats": {
+      "spd": 364,
+      "sta": 168,
+      "pwr": 291,
+      "guts": 112,
+      "wit": 144
+    },
+    "decision": "sta",
+    "reward": 1.716,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T09:54:17.051668",
+    "character": "Unknown",
+    "year": "Junior Year Late Oct",
+    "phase": "early",
+    "energy": 100,
+    "current_stats": {
+      "spd": 364,
+      "sta": 186,
+      "pwr": 291,
+      "guts": 120,
+      "wit": 144
+    },
+    "decision": "pwr",
+    "reward": 1.721,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T09:54:32.789038",
+    "character": "Unknown",
+    "year": "Junior Year Early Nov",
+    "phase": "early",
+    "energy": 85.16949152542372,
+    "current_stats": {
+      "spd": 364,
+      "sta": 196,
+      "pwr": 313,
+      "guts": 120,
+      "wit": 144
+    },
+    "decision": "pwr",
+    "reward": 1.327,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T09:54:49.605792",
+    "character": "Unknown",
+    "year": "Junior Year Late Nov",
+    "phase": "early",
+    "energy": 64.83050847457628,
+    "current_stats": {
+      "spd": 364,
+      "sta": 206,
+      "pwr": 328,
+      "guts": 120,
+      "wit": 144
+    },
+    "decision": "guts",
+    "reward": 1.332,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T09:55:57.957946",
+    "character": "Unknown",
+    "year": "Junior Year Late Dec",
+    "phase": "early",
+    "energy": 52.54237288135594,
+    "current_stats": {
+      "spd": 380,
+      "sta": 209,
+      "pwr": 340,
+      "guts": 137,
+      "wit": 147
+    },
+    "decision": "sta",
+    "reward": 1.043,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T09:56:17.757916",
+    "character": "Unknown",
+    "year": "Classic Year Early Jan",
+    "phase": "mid",
+    "energy": 33.05084745762712,
+    "current_stats": {
+      "spd": 380,
+      "sta": 226,
+      "pwr": 340,
+      "guts": 144,
+      "wit": 157
+    },
+    "decision": "wit",
+    "reward": 0.243,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T09:56:32.848767",
+    "character": "Unknown",
+    "year": "Classic Year Late Jan",
+    "phase": "mid",
+    "energy": 38.559322033898304,
+    "current_stats": {
+      "spd": 382,
+      "sta": 226,
+      "pwr": 340,
+      "guts": 144,
+      "wit": 167
+    },
+    "decision": "wit",
+    "reward": 0.652,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T09:56:53.066345",
+    "character": "Unknown",
+    "year": "Classic Year Early Feb",
+    "phase": "mid",
+    "energy": 43.22033898305085,
+    "current_stats": {
+      "spd": 385,
+      "sta": 226,
+      "pwr": 350,
+      "guts": 144,
+      "wit": 180
+    },
+    "decision": "wit",
+    "reward": 1.057,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T09:57:17.386406",
+    "character": "Unknown",
+    "year": "Classic Year Late Feb",
+    "phase": "mid",
+    "energy": 48.30508474576271,
+    "current_stats": {
+      "spd": 393,
+      "sta": 226,
+      "pwr": 355,
+      "guts": 144,
+      "wit": 192
+    },
+    "decision": "rest",
+    "reward": 0,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "auto-rest"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T09:57:33.732050",
+    "character": "Unknown",
+    "year": "Classic Year Early Mar",
+    "phase": "mid",
+    "energy": 77.11864406779661,
+    "current_stats": {
+      "spd": 393,
+      "sta": 231,
+      "pwr": 360,
+      "guts": 144,
+      "wit": 192
+    },
+    "decision": "sta",
+    "reward": 1.364,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T09:57:57.137210",
+    "character": "Unknown",
+    "year": "Classic Year Late Mar",
+    "phase": "mid",
+    "energy": 67.79661016949152,
+    "current_stats": {
+      "spd": 393,
+      "sta": 251,
+      "pwr": 360,
+      "guts": 149,
+      "wit": 192
+    },
+    "decision": "spd",
+    "reward": 1.769,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T09:59:02.622592",
+    "character": "Unknown",
+    "year": "Classic Year Late Apr",
+    "phase": "mid",
+    "energy": 30.08474576271186,
+    "current_stats": {
+      "spd": 516,
+      "sta": 273,
+      "pwr": 400,
+      "guts": 154,
+      "wit": 199
+    },
+    "decision": "wit",
+    "reward": 0.284,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T09:59:18.673088",
+    "character": "Unknown",
+    "year": "Classic Year Early May",
+    "phase": "mid",
+    "energy": 35.16949152542373,
+    "current_stats": {
+      "spd": 518,
+      "sta": 273,
+      "pwr": 400,
+      "guts": 154,
+      "wit": 213
+    },
+    "decision": "wit",
+    "reward": 0.712,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T10:00:32.440541",
+    "character": "Unknown",
+    "year": "Classic Year Early Jun",
+    "phase": "mid",
+    "energy": 40.25423728813559,
+    "current_stats": {
+      "spd": 523,
+      "sta": 285,
+      "pwr": 402,
+      "guts": 156,
+      "wit": 228
+    },
+    "decision": "rest",
+    "reward": 0,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "auto-rest"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T10:00:49.538796",
+    "character": "Unknown",
+    "year": "Classic Year Late Jun",
+    "phase": "mid",
+    "energy": 81.35593220338984,
+    "current_stats": {
+      "spd": 523,
+      "sta": 285,
+      "pwr": 402,
+      "guts": 156,
+      "wit": 228
+    },
+    "decision": "spd",
+    "reward": 1.819,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T10:01:07.426854",
+    "character": "Unknown",
+    "year": "Classic Year Early Jul",
+    "phase": "mid",
+    "energy": 57.6271186440678,
+    "current_stats": {
+      "spd": 571,
+      "sta": 285,
+      "pwr": 426,
+      "guts": 156,
+      "wit": 228
+    },
+    "decision": "spd",
+    "reward": 1.533,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T10:01:29.099679",
+    "character": "Unknown",
+    "year": "Classic Year Late Jul",
+    "phase": "mid",
+    "energy": 30.08474576271186,
+    "current_stats": {
+      "spd": 612,
+      "sta": 285,
+      "pwr": 450,
+      "guts": 181,
+      "wit": 228
+    },
+    "decision": "rest",
+    "reward": 0,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "auto-rest"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T10:01:40.119315",
+    "character": "Unknown",
+    "year": "Classic Year Early _ Aug",
+    "phase": "mid",
+    "energy": 71.1864406779661,
+    "current_stats": {
+      "spd": 612,
+      "sta": 285,
+      "pwr": 450,
+      "guts": 181,
+      "wit": 228
+    },
+    "decision": "spd",
+    "reward": 1.851,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T10:02:04.668249",
+    "character": "Unknown",
+    "year": "Classic Year Late Aug",
+    "phase": "mid",
+    "energy": 43.22033898305085,
+    "current_stats": {
+      "spd": 670,
+      "sta": 285,
+      "pwr": 484,
+      "guts": 181,
+      "wit": 228
+    },
+    "decision": "rest",
+    "reward": 0,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "auto-rest"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T10:02:19.796406",
+    "character": "Unknown",
+    "year": "Classic Year Early Sep",
+    "phase": "mid",
+    "energy": 74.15254237288136,
+    "current_stats": {
+      "spd": 675,
+      "sta": 290,
+      "pwr": 484,
+      "guts": 181,
+      "wit": 233
+    },
+    "decision": "spd",
+    "reward": 1.873,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T10:02:33.461668",
+    "character": "Unknown",
+    "year": "Classic Year Late Sep",
+    "phase": "mid",
+    "energy": 50.42372881355932,
+    "current_stats": {
+      "spd": 705,
+      "sta": 290,
+      "pwr": 502,
+      "guts": 181,
+      "wit": 233
+    },
+    "decision": "spd",
+    "reward": 1.982,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T10:02:59.789661",
+    "character": "Unknown",
+    "year": "Classic Year Early Oct",
+    "phase": "mid",
+    "energy": 27.11864406779661,
+    "current_stats": {
+      "spd": 778,
+      "sta": 290,
+      "pwr": 532,
+      "guts": 181,
+      "wit": 233
+    },
+    "decision": "rest",
+    "reward": 0,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "auto-rest"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T10:03:45.029787",
+    "character": "Unknown",
+    "year": "Classic Year Early Nov",
+    "phase": "mid",
+    "energy": 62.71186440677966,
+    "current_stats": {
+      "spd": 781,
+      "sta": 290,
+      "pwr": 547,
+      "guts": 181,
+      "wit": 236
+    },
+    "decision": "pwr",
+    "reward": 1.507,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T10:04:44.671604",
+    "character": "Unknown",
+    "year": "Classic Year Early Dec",
+    "phase": "mid",
+    "energy": 41.10169491525424,
+    "current_stats": {
+      "spd": 782,
+      "sta": 303,
+      "pwr": 577,
+      "guts": 187,
+      "wit": 257
+    },
+    "decision": "wit",
+    "reward": 0.821,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T10:05:47.305572",
+    "character": "Unknown",
+    "year": "Senior Year Early Jan",
+    "phase": "late",
+    "energy": 77.11864406779661,
+    "current_stats": {
+      "spd": 788,
+      "sta": 311,
+      "pwr": 585,
+      "guts": 190,
+      "wit": 273
+    },
+    "decision": "spd",
+    "reward": 2.329,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T10:06:13.389915",
+    "character": "Unknown",
+    "year": "Senior Year Late Jan",
+    "phase": "late",
+    "energy": 74.15254237288136,
+    "current_stats": {
+      "spd": 869,
+      "sta": 316,
+      "pwr": 627,
+      "guts": 195,
+      "wit": 283
+    },
+    "decision": "spd",
+    "reward": 2.358,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T10:06:33.505760",
+    "character": "Unknown",
+    "year": "Senior Year Early Feb",
+    "phase": "late",
+    "energy": 48.30508474576271,
+    "current_stats": {
+      "spd": 911,
+      "sta": 316,
+      "pwr": 649,
+      "guts": 195,
+      "wit": 283
+    },
+    "decision": "wit",
+    "reward": 1.671,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T10:06:52.839675",
+    "character": "Unknown",
+    "year": "Senior Year Late Feb",
+    "phase": "late",
+    "energy": 48.30508474576271,
+    "current_stats": {
+      "spd": 918,
+      "sta": 316,
+      "pwr": 654,
+      "guts": 195,
+      "wit": 303
+    },
+    "decision": "sta",
+    "reward": 1.677,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T10:07:10.483221",
+    "character": "Unknown",
+    "year": "Senior Year Early Mar",
+    "phase": "late",
+    "energy": 38.559322033898304,
+    "current_stats": {
+      "spd": 918,
+      "sta": 334,
+      "pwr": 654,
+      "guts": 202,
+      "wit": 303
+    },
+    "decision": "rest",
+    "reward": 0,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "auto-rest"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T10:08:01.250421",
+    "character": "Unknown",
+    "year": "Senior Year Early Apr",
+    "phase": "late",
+    "energy": 89.40677966101694,
+    "current_stats": {
+      "spd": 987,
+      "sta": 365,
+      "pwr": 664,
+      "guts": 207,
+      "wit": 309
+    },
+    "decision": "sta",
+    "reward": 2.006,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T10:08:23.677057",
+    "character": "Unknown",
+    "year": "Senior Year Early May",
+    "phase": "late",
+    "energy": 79.23728813559322,
+    "current_stats": {
+      "spd": 987,
+      "sta": 383,
+      "pwr": 664,
+      "guts": 214,
+      "wit": 309
+    },
+    "decision": "pwr",
+    "reward": 1.611,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T10:08:37.315829",
+    "character": "Unknown",
+    "year": "Senior Year Late May",
+    "phase": "late",
+    "energy": 57.6271186440678,
+    "current_stats": {
+      "spd": 987,
+      "sta": 394,
+      "pwr": 690,
+      "guts": 214,
+      "wit": 309
+    },
+    "decision": "wit",
+    "reward": 1.319,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T10:08:51.486420",
+    "character": "Unknown",
+    "year": "Senior Year Early Jun",
+    "phase": "late",
+    "energy": 62.71186440677966,
+    "current_stats": {
+      "spd": 991,
+      "sta": 394,
+      "pwr": 690,
+      "guts": 214,
+      "wit": 329
+    },
+    "decision": "spd",
+    "reward": 1.624,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T10:10:04.897126",
+    "character": "Unknown",
+    "year": "Senior Year Early Jul",
+    "phase": "late",
+    "energy": 37.28813559322034,
+    "current_stats": {
+      "spd": 1026,
+      "sta": 397,
+      "pwr": 709,
+      "guts": 217,
+      "wit": 332
+    },
+    "decision": "rest",
+    "reward": 0,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "auto-rest"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T10:10:18.816858",
+    "character": "Unknown",
+    "year": "Senior Year Late Jul",
+    "phase": "late",
+    "energy": 77.96610169491525,
+    "current_stats": {
+      "spd": 1026,
+      "sta": 397,
+      "pwr": 709,
+      "guts": 217,
+      "wit": 357
+    },
+    "decision": "pwr",
+    "reward": 2.041,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T10:10:32.384663",
+    "character": "Unknown",
+    "year": "Senior Year Early Aug",
+    "phase": "late",
+    "energy": 51.271186440677965,
+    "current_stats": {
+      "spd": 1026,
+      "sta": 413,
+      "pwr": 739,
+      "guts": 217,
+      "wit": 357
+    },
+    "decision": "spd",
+    "reward": 1.35,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T10:10:46.321841",
+    "character": "Unknown",
+    "year": "Senior Year Late Aug",
+    "phase": "late",
+    "energy": 24.152542372881356,
+    "current_stats": {
+      "spd": 1068,
+      "sta": 413,
+      "pwr": 757,
+      "guts": 217,
+      "wit": 357
+    },
+    "decision": "rest",
+    "reward": 0,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "auto-rest"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T10:10:59.620681",
+    "character": "Unknown",
+    "year": "Senior Year Early Sep",
+    "phase": "late",
+    "energy": 64.83050847457628,
+    "current_stats": {
+      "spd": 1068,
+      "sta": 418,
+      "pwr": 762,
+      "guts": 222,
+      "wit": 357
+    },
+    "decision": "spd",
+    "reward": 1.665,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T10:11:17.852331",
+    "character": "Unknown",
+    "year": "Senior Year Late Sep",
+    "phase": "late",
+    "energy": 39.40677966101695,
+    "current_stats": {
+      "spd": 1114,
+      "sta": 418,
+      "pwr": 780,
+      "guts": 222,
+      "wit": 357
+    },
+    "decision": "rest",
+    "reward": 0,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "auto-rest"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T10:12:09.167519",
+    "character": "Unknown",
+    "year": "Senior Year Late Oct",
+    "phase": "late",
+    "energy": 100,
+    "current_stats": {
+      "spd": 1122,
+      "sta": 426,
+      "pwr": 780,
+      "guts": 225,
+      "wit": 360
+    },
+    "decision": "wit",
+    "reward": 2.083,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T10:12:27.859636",
+    "character": "Unknown",
+    "year": "Senior Year Early Nov",
+    "phase": "late",
+    "energy": 100,
+    "current_stats": {
+      "spd": 1127,
+      "sta": 426,
+      "pwr": 780,
+      "guts": 225,
+      "wit": 387
+    },
+    "decision": "sta",
+    "reward": 1.689,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T10:12:42.503463",
+    "character": "Unknown",
+    "year": "Senior Year Late Nov",
+    "phase": "late",
+    "energy": 87.28813559322035,
+    "current_stats": {
+      "spd": 1127,
+      "sta": 442,
+      "pwr": 780,
+      "guts": 231,
+      "wit": 397
+    },
+    "decision": "spd",
+    "reward": 1.695,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T10:12:58.237597",
+    "character": "Unknown",
+    "year": "Senior Year Early Dec",
+    "phase": "late",
+    "energy": 61.86440677966102,
+    "current_stats": {
+      "spd": 1173,
+      "sta": 442,
+      "pwr": 798,
+      "guts": 231,
+      "wit": 397
+    },
+    "decision": "rest",
+    "reward": 0,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "auto-rest"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T10:13:52.005357",
+    "character": "Unknown",
+    "year": "Finale Season",
+    "phase": "unknown",
+    "energy": 92.37288135593221,
+    "current_stats": {
+      "spd": 1176,
+      "sta": 445,
+      "pwr": 801,
+      "guts": 234,
+      "wit": 400
+    },
+    "decision": "pwr",
+    "reward": 1.711,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T10:14:28.962697",
+    "character": "Unknown",
+    "year": "Finale Season",
+    "phase": "unknown",
+    "energy": 71.1864406779661,
+    "current_stats": {
+      "spd": 1188,
+      "sta": 467,
+      "pwr": 830,
+      "guts": 246,
+      "wit": 412
+    },
+    "decision": "sta",
+    "reward": 1.329,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T10:15:11.278916",
+    "character": "Unknown",
+    "year": "Finale Season",
+    "phase": "unknown",
+    "energy": 50.42372881355932,
+    "current_stats": {
+      "spd": 0,
+      "sta": 492,
+      "pwr": 842,
+      "guts": 263,
+      "wit": 424
+    },
+    "decision": "pwr",
+    "reward": 2.004,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T17:46:20.890762",
+    "character": "Unknown",
+    "year": "Junior Year Pre-Debut",
+    "phase": "early",
+    "energy": 100.0,
+    "current_stats": {
+      "spd": 166,
+      "sta": 123,
+      "pwr": 149,
+      "guts": 74,
+      "wit": 103
+    },
+    "decision": "spd",
+    "reward": 1.223,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T17:46:35.617744",
+    "character": "Unknown",
+    "year": "Junior Year Pre-Debut",
+    "phase": "early",
+    "energy": 81.35593220338984,
+    "current_stats": {
+      "spd": 182,
+      "sta": 123,
+      "pwr": 158,
+      "guts": 74,
+      "wit": 103
+    },
+    "decision": "spd",
+    "reward": 1.228,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T17:46:52.517424",
+    "character": "Unknown",
+    "year": "Junior Year Pre-Debut",
+    "phase": "early",
+    "energy": 70.33898305084746,
+    "current_stats": {
+      "spd": 197,
+      "sta": 128,
+      "pwr": 168,
+      "guts": 74,
+      "wit": 103
+    },
+    "decision": "guts",
+    "reward": 1.634,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T17:47:14.415368",
+    "character": "Unknown",
+    "year": "Junior Year Pre-Debut",
+    "phase": "early",
+    "energy": 58.05084745762712,
+    "current_stats": {
+      "spd": 205,
+      "sta": 128,
+      "pwr": 177,
+      "guts": 85,
+      "wit": 103
+    },
+    "decision": "guts",
+    "reward": 0.94,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T17:47:31.468777",
+    "character": "Unknown",
+    "year": "Junior Year Pre-Debut",
+    "phase": "early",
+    "energy": 35.59322033898305,
+    "current_stats": {
+      "spd": 211,
+      "sta": 128,
+      "pwr": 185,
+      "guts": 95,
+      "wit": 103
+    },
+    "decision": "wit",
+    "reward": 1.344,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T17:47:47.352311",
+    "character": "Unknown",
+    "year": "Junior Year Pre-Debut",
+    "phase": "early",
+    "energy": 40.67796610169492,
+    "current_stats": {
+      "spd": 219,
+      "sta": 128,
+      "pwr": 185,
+      "guts": 95,
+      "wit": 122
+    },
+    "decision": "pwr",
+    "reward": 1.29,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T17:48:06.369736",
+    "character": "Unknown",
+    "year": "Junior Year Pre-Debut",
+    "phase": "early",
+    "energy": 20.33898305084746,
+    "current_stats": {
+      "spd": 219,
+      "sta": 136,
+      "pwr": 199,
+      "guts": 95,
+      "wit": 132
+    },
+    "decision": "rest",
+    "reward": 0,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "auto-rest"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T17:48:23.316284",
+    "character": "Unknown",
+    "year": "Junior Year Pre-Debut",
+    "phase": "early",
+    "energy": 91.94915254237289,
+    "current_stats": {
+      "spd": 221,
+      "sta": 136,
+      "pwr": 201,
+      "guts": 95,
+      "wit": 134
+    },
+    "decision": "pwr",
+    "reward": 1.257,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T17:48:42.288876",
+    "character": "Unknown",
+    "year": "Junior Year Pre-Debut",
+    "phase": "early",
+    "energy": 71.61016949152543,
+    "current_stats": {
+      "spd": 221,
+      "sta": 147,
+      "pwr": 221,
+      "guts": 95,
+      "wit": 134
+    },
+    "decision": "wit",
+    "reward": 2.064,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T17:49:03.002672",
+    "character": "Unknown",
+    "year": "Junior Year Pre-Debut",
+    "phase": "early",
+    "energy": 76.69491525423729,
+    "current_stats": {
+      "spd": 225,
+      "sta": 147,
+      "pwr": 221,
+      "guts": 95,
+      "wit": 151
+    },
+    "decision": "spd",
+    "reward": 1.668,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T17:49:21.465834",
+    "character": "Unknown",
+    "year": "Junior Year Pre-Debut",
+    "phase": "early",
+    "energy": 55.08474576271186,
+    "current_stats": {
+      "spd": 253,
+      "sta": 147,
+      "pwr": 247,
+      "guts": 95,
+      "wit": 151
+    },
+    "decision": "sta",
+    "reward": 0.979,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T17:50:21.437330",
+    "character": "Unknown",
+    "year": "Junior Year Early Jul",
+    "phase": "early",
+    "energy": 35.59322033898305,
+    "current_stats": {
+      "spd": 261,
+      "sta": 162,
+      "pwr": 247,
+      "guts": 100,
+      "wit": 154
+    },
+    "decision": "rest",
+    "reward": 0,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "auto-rest"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T17:50:35.616119",
+    "character": "Unknown",
+    "year": "Junior Year Late Jul",
+    "phase": "early",
+    "energy": 86.86440677966102,
+    "current_stats": {
+      "spd": 261,
+      "sta": 162,
+      "pwr": 247,
+      "guts": 100,
+      "wit": 154
+    },
+    "decision": "wit",
+    "reward": 1.685,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T17:50:51.546828",
+    "character": "Unknown",
+    "year": "Junior Year Early Aug",
+    "phase": "early",
+    "energy": 91.94915254237289,
+    "current_stats": {
+      "spd": 268,
+      "sta": 162,
+      "pwr": 247,
+      "guts": 100,
+      "wit": 172
+    },
+    "decision": "sta",
+    "reward": 1.29,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T17:51:04.159429",
+    "character": "Unknown",
+    "year": "Junior Year Late Aug",
+    "phase": "early",
+    "energy": 72.45762711864407,
+    "current_stats": {
+      "spd": 268,
+      "sta": 176,
+      "pwr": 247,
+      "guts": 106,
+      "wit": 172
+    },
+    "decision": "sta",
+    "reward": 1.694,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T17:51:26.183696",
+    "character": "Unknown",
+    "year": "Junior Year Early Sep",
+    "phase": "early",
+    "energy": 53.38983050847458,
+    "current_stats": {
+      "spd": 278,
+      "sta": 195,
+      "pwr": 247,
+      "guts": 113,
+      "wit": 177
+    },
+    "decision": "guts",
+    "reward": 1.402,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T17:51:40.337043",
+    "character": "Unknown",
+    "year": "Junior Year Late Sep",
+    "phase": "early",
+    "energy": 30.508474576271187,
+    "current_stats": {
+      "spd": 287,
+      "sta": 195,
+      "pwr": 260,
+      "guts": 128,
+      "wit": 177
+    },
+    "decision": "pwr",
+    "reward": 1.349,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T17:52:02.369411",
+    "character": "Unknown",
+    "year": "Junior Year Early Oct",
+    "phase": "early",
+    "energy": 46.186440677966104,
+    "current_stats": {
+      "spd": 287,
+      "sta": 195,
+      "pwr": 255,
+      "guts": 128,
+      "wit": 177
+    },
+    "decision": "rest",
+    "reward": 0,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "auto-rest"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T17:52:17.210495",
+    "character": "Unknown",
+    "year": "Junior Year Late Oct",
+    "phase": "early",
+    "energy": 97.03389830508475,
+    "current_stats": {
+      "spd": 297,
+      "sta": 195,
+      "pwr": 255,
+      "guts": 128,
+      "wit": 177
+    },
+    "decision": "spd",
+    "reward": 1.31,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T17:52:39.693956",
+    "character": "Unknown",
+    "year": "Junior Year Early Nov",
+    "phase": "early",
+    "energy": 86.4406779661017,
+    "current_stats": {
+      "spd": 313,
+      "sta": 195,
+      "pwr": 265,
+      "guts": 128,
+      "wit": 177
+    },
+    "decision": "sta",
+    "reward": 1.316,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T17:53:00.461717",
+    "character": "Unknown",
+    "year": "Junior Year Late Nov",
+    "phase": "early",
+    "energy": 66.94915254237289,
+    "current_stats": {
+      "spd": 313,
+      "sta": 210,
+      "pwr": 275,
+      "guts": 134,
+      "wit": 177
+    },
+    "decision": "rest",
+    "reward": 0,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "auto-rest"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T17:54:01.935918",
+    "character": "Unknown",
+    "year": "Junior Year Late Dec",
+    "phase": "early",
+    "energy": 100,
+    "current_stats": {
+      "spd": 321,
+      "sta": 223,
+      "pwr": 283,
+      "guts": 137,
+      "wit": 180
+    },
+    "decision": "pwr",
+    "reward": 1.329,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T17:54:18.303522",
+    "character": "Unknown",
+    "year": "Classic Year Early Jan",
+    "phase": "mid",
+    "energy": 87.28813559322035,
+    "current_stats": {
+      "spd": 321,
+      "sta": 233,
+      "pwr": 298,
+      "guts": 137,
+      "wit": 190
+    },
+    "decision": "spd",
+    "reward": 1.336,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T17:54:34.136280",
+    "character": "Unknown",
+    "year": "Classic Year Late Jan",
+    "phase": "mid",
+    "energy": 64.83050847457628,
+    "current_stats": {
+      "spd": 346,
+      "sta": 233,
+      "pwr": 308,
+      "guts": 137,
+      "wit": 190
+    },
+    "decision": "spd",
+    "reward": 1.743,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T17:54:55.202906",
+    "character": "Unknown",
+    "year": "Classic Year Early Feb",
+    "phase": "mid",
+    "energy": 42.3728813559322,
+    "current_stats": {
+      "spd": 385,
+      "sta": 243,
+      "pwr": 326,
+      "guts": 137,
+      "wit": 190
+    },
+    "decision": "wit",
+    "reward": 0.656,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T17:55:17.080495",
+    "character": "Unknown",
+    "year": "Classic Year Late Feb",
+    "phase": "mid",
+    "energy": 47.45762711864407,
+    "current_stats": {
+      "spd": 388,
+      "sta": 243,
+      "pwr": 326,
+      "guts": 137,
+      "wit": 201
+    },
+    "decision": "rest",
+    "reward": 0,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "auto-rest"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T17:55:28.121643",
+    "character": "Unknown",
+    "year": "Classic Year Early Mar",
+    "phase": "mid",
+    "energy": 77.96610169491525,
+    "current_stats": {
+      "spd": 388,
+      "sta": 243,
+      "pwr": 326,
+      "guts": 137,
+      "wit": 201
+    },
+    "decision": "guts",
+    "reward": 1.759,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T17:55:52.050967",
+    "character": "Unknown",
+    "year": "Classic Year Late Mar",
+    "phase": "mid",
+    "energy": 55.50847457627118,
+    "current_stats": {
+      "spd": 410,
+      "sta": 243,
+      "pwr": 335,
+      "guts": 153,
+      "wit": 201
+    },
+    "decision": "spd",
+    "reward": 1.468,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T17:56:54.162473",
+    "character": "Unknown",
+    "year": "Classic Year Late Apr",
+    "phase": "mid",
+    "energy": 7.627118644067797,
+    "current_stats": {
+      "spd": 520,
+      "sta": 262,
+      "pwr": 352,
+      "guts": 158,
+      "wit": 217
+    },
+    "decision": "rest",
+    "reward": 0,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "auto-rest"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T17:57:45.371481",
+    "character": "Unknown",
+    "year": "Classic Year Early May",
+    "phase": "mid",
+    "energy": 58.47457627118644,
+    "current_stats": {
+      "spd": 520,
+      "sta": 262,
+      "pwr": 352,
+      "guts": 158,
+      "wit": 212
+    },
+    "decision": "guts",
+    "reward": 1.501,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T17:58:49.416727",
+    "character": "Unknown",
+    "year": "Classic Year Early Jun",
+    "phase": "mid",
+    "energy": 35.16949152542373,
+    "current_stats": {
+      "spd": 531,
+      "sta": 263,
+      "pwr": 360,
+      "guts": 176,
+      "wit": 213
+    },
+    "decision": "rest",
+    "reward": 0,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "auto-rest"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T17:59:12.907126",
+    "character": "Unknown",
+    "year": "Classic Year Late Jun",
+    "phase": "mid",
+    "energy": 100,
+    "current_stats": {
+      "spd": 531,
+      "sta": 263,
+      "pwr": 360,
+      "guts": 176,
+      "wit": 213
+    },
+    "decision": "pwr",
+    "reward": 1.409,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T18:01:34.008569",
+    "character": "Unknown",
+    "year": "Classic Year Early _ Aug",
+    "phase": "mid",
+    "energy": 56.779661016949156,
+    "current_stats": {
+      "spd": 531,
+      "sta": 279,
+      "pwr": 374,
+      "guts": 176,
+      "wit": 222
+    },
+    "decision": "spd",
+    "reward": 1.516,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T18:02:04.868242",
+    "character": "Unknown",
+    "year": "Classic Year Late Aug",
+    "phase": "mid",
+    "energy": 29.23728813559322,
+    "current_stats": {
+      "spd": 587,
+      "sta": 279,
+      "pwr": 417,
+      "guts": 176,
+      "wit": 222
+    },
+    "decision": "rest",
+    "reward": 0,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "auto-rest"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T18:02:27.273765",
+    "character": "Unknown",
+    "year": "Classic Year Early Sep",
+    "phase": "mid",
+    "energy": 80.08474576271186,
+    "current_stats": {
+      "spd": 592,
+      "sta": 279,
+      "pwr": 417,
+      "guts": 181,
+      "wit": 237
+    },
+    "decision": "pwr",
+    "reward": 1.841,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T18:02:48.424648",
+    "character": "Unknown",
+    "year": "Classic Year Late Sep",
+    "phase": "mid",
+    "energy": 58.47457627118644,
+    "current_stats": {
+      "spd": 592,
+      "sta": 291,
+      "pwr": 444,
+      "guts": 181,
+      "wit": 247
+    },
+    "decision": "spd",
+    "reward": 1.151,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T18:03:15.277156",
+    "character": "Unknown",
+    "year": "Classic Year Early Oct",
+    "phase": "mid",
+    "energy": 56.779661016949156,
+    "current_stats": {
+      "spd": 620,
+      "sta": 291,
+      "pwr": 458,
+      "guts": 181,
+      "wit": 247
+    },
+    "decision": "spd",
+    "reward": 1.159,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T18:04:20.287935",
+    "character": "Unknown",
+    "year": "Classic Year Early Nov",
+    "phase": "mid",
+    "energy": 7.627118644067797,
+    "current_stats": {
+      "spd": 653,
+      "sta": 306,
+      "pwr": 489,
+      "guts": 181,
+      "wit": 247
+    },
+    "decision": "rest",
+    "reward": 0,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "auto-rest"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T18:07:54.030840",
+    "character": "Unknown",
+    "year": "Classic Year Early Dec",
+    "phase": "mid",
+    "energy": 89.40677966101694,
+    "current_stats": {
+      "spd": 666,
+      "sta": 314,
+      "pwr": 497,
+      "guts": 194,
+      "wit": 255
+    },
+    "decision": "sta",
+    "reward": 1.885,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T18:09:11.731013",
+    "character": "Unknown",
+    "year": "Senior Year Early Jan",
+    "phase": "late",
+    "energy": 89.40677966101694,
+    "current_stats": {
+      "spd": 669,
+      "sta": 342,
+      "pwr": 505,
+      "guts": 205,
+      "wit": 258
+    },
+    "decision": "spd",
+    "reward": 1.496,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T18:09:37.919983",
+    "character": "Unknown",
+    "year": "Senior Year Late Jan",
+    "phase": "late",
+    "energy": 75.84745762711864,
+    "current_stats": {
+      "spd": 706,
+      "sta": 347,
+      "pwr": 522,
+      "guts": 210,
+      "wit": 263
+    },
+    "decision": "wit",
+    "reward": 1.91,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T18:10:06.132615",
+    "character": "Unknown",
+    "year": "Senior Year Early Feb",
+    "phase": "late",
+    "energy": 75.84745762711864,
+    "current_stats": {
+      "spd": 712,
+      "sta": 347,
+      "pwr": 522,
+      "guts": 210,
+      "wit": 286
+    },
+    "decision": "pwr",
+    "reward": 1.915,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T18:10:32.322256",
+    "character": "Unknown",
+    "year": "Senior Year Late Feb",
+    "phase": "late",
+    "energy": 24.152542372881356,
+    "current_stats": {
+      "spd": 712,
+      "sta": 363,
+      "pwr": 548,
+      "guts": 210,
+      "wit": 286
+    },
+    "decision": "rest",
+    "reward": 0,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "auto-rest"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T18:10:53.742412",
+    "character": "Unknown",
+    "year": "Senior Year Early Mar",
+    "phase": "late",
+    "energy": 90.2542372881356,
+    "current_stats": {
+      "spd": 712,
+      "sta": 363,
+      "pwr": 548,
+      "guts": 210,
+      "wit": 286
+    },
+    "decision": "sta",
+    "reward": 1.924,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T18:12:04.939135",
+    "character": "Unknown",
+    "year": "Senior Year Late Mar",
+    "phase": "late",
+    "energy": 69.91525423728814,
+    "current_stats": {
+      "spd": 712,
+      "sta": 387,
+      "pwr": 548,
+      "guts": 218,
+      "wit": 286
+    },
+    "decision": "guts",
+    "reward": 1.93,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T18:12:47.422878",
+    "character": "Unknown",
+    "year": "Senior Year Early Apr",
+    "phase": "late",
+    "energy": 46.61016949152542,
+    "current_stats": {
+      "spd": 785,
+      "sta": 400,
+      "pwr": 561,
+      "guts": 236,
+      "wit": 299
+    },
+    "decision": "rest",
+    "reward": 0,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "auto-rest"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T18:19:57.738088",
+    "character": "Unknown",
+    "year": "Senior Year Late Apr",
+    "phase": "late",
+    "energy": 97.45762711864407,
+    "current_stats": {
+      "spd": 795,
+      "sta": 400,
+      "pwr": 571,
+      "guts": 236,
+      "wit": 299
+    },
+    "decision": "sta",
+    "reward": 1.56,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T18:20:24.393235",
+    "character": "Unknown",
+    "year": "Senior Year Early May",
+    "phase": "late",
+    "energy": 77.11864406779661,
+    "current_stats": {
+      "spd": 795,
+      "sta": 416,
+      "pwr": 571,
+      "guts": 242,
+      "wit": 304
+    },
+    "decision": "spd",
+    "reward": 1.566,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T18:20:43.147643",
+    "character": "Unknown",
+    "year": "Senior Year Late May",
+    "phase": "late",
+    "energy": 53.813559322033896,
+    "current_stats": {
+      "spd": 838,
+      "sta": 416,
+      "pwr": 586,
+      "guts": 242,
+      "wit": 304
+    },
+    "decision": "spd",
+    "reward": 1.277,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T18:21:09.137913",
+    "character": "Unknown",
+    "year": "Senior Year Early Jun",
+    "phase": "late",
+    "energy": 30.08474576271186,
+    "current_stats": {
+      "spd": 883,
+      "sta": 416,
+      "pwr": 604,
+      "guts": 242,
+      "wit": 304
+    },
+    "decision": "rest",
+    "reward": 0,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "auto-rest"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T18:22:07.384365",
+    "character": "Unknown",
+    "year": "Senior Year Early Jul",
+    "phase": "late",
+    "energy": 100,
+    "current_stats": {
+      "spd": 886,
+      "sta": 419,
+      "pwr": 607,
+      "guts": 245,
+      "wit": 307
+    },
+    "decision": "pwr",
+    "reward": 1.993,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T18:22:25.833346",
+    "character": "Unknown",
+    "year": "Senior Year Late Jul",
+    "phase": "late",
+    "energy": 75.0,
+    "current_stats": {
+      "spd": 886,
+      "sta": 435,
+      "pwr": 642,
+      "guts": 245,
+      "wit": 307
+    },
+    "decision": "spd",
+    "reward": 1.603,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T18:22:45.531627",
+    "character": "Unknown",
+    "year": "Senior Year Early Aug",
+    "phase": "late",
+    "energy": 47.45762711864407,
+    "current_stats": {
+      "spd": 923,
+      "sta": 435,
+      "pwr": 661,
+      "guts": 245,
+      "wit": 307
+    },
+    "decision": "wit",
+    "reward": 1.714,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T18:23:02.388683",
+    "character": "Unknown",
+    "year": "Senior Year Late Aug",
+    "phase": "late",
+    "energy": 52.54237288135594,
+    "current_stats": {
+      "spd": 935,
+      "sta": 435,
+      "pwr": 661,
+      "guts": 245,
+      "wit": 334
+    },
+    "decision": "spd",
+    "reward": 1.322,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T18:23:26.865257",
+    "character": "Unknown",
+    "year": "Senior Year Early Sep",
+    "phase": "late",
+    "energy": 25.0,
+    "current_stats": {
+      "spd": 985,
+      "sta": 440,
+      "pwr": 692,
+      "guts": 245,
+      "wit": 339
+    },
+    "decision": "rest",
+    "reward": 0,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "auto-rest"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T18:23:47.260930",
+    "character": "Unknown",
+    "year": "Senior Year Late Sep",
+    "phase": "late",
+    "energy": 96.61016949152543,
+    "current_stats": {
+      "spd": 985,
+      "sta": 440,
+      "pwr": 692,
+      "guts": 245,
+      "wit": 349
+    },
+    "decision": "guts",
+    "reward": 1.642,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T18:25:21.550355",
+    "character": "Unknown",
+    "year": "Senior Year Late Oct",
+    "phase": "late",
+    "energy": 72.88135593220339,
+    "current_stats": {
+      "spd": 995,
+      "sta": 443,
+      "pwr": 701,
+      "guts": 261,
+      "wit": 362
+    },
+    "decision": "sta",
+    "reward": 1.652,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T18:25:40.912414",
+    "character": "Unknown",
+    "year": "Senior Year Early Nov",
+    "phase": "late",
+    "energy": 52.54237288135594,
+    "current_stats": {
+      "spd": 995,
+      "sta": 457,
+      "pwr": 701,
+      "guts": 266,
+      "wit": 362
+    },
+    "decision": "wit",
+    "reward": 1.356,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T18:25:59.815175",
+    "character": "Unknown",
+    "year": "Senior Year Late Nov",
+    "phase": "late",
+    "energy": 57.6271186440678,
+    "current_stats": {
+      "spd": 998,
+      "sta": 457,
+      "pwr": 701,
+      "guts": 266,
+      "wit": 387
+    },
+    "decision": "spd",
+    "reward": 1.362,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T18:26:29.733341",
+    "character": "Unknown",
+    "year": "Senior Year Early Dec",
+    "phase": "late",
+    "energy": 27.11864406779661,
+    "current_stats": {
+      "spd": 1045,
+      "sta": 457,
+      "pwr": 719,
+      "guts": 266,
+      "wit": 387
+    },
+    "decision": "rest",
+    "reward": 0,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "auto-rest"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T18:27:34.405713",
+    "character": "Unknown",
+    "year": "Finale Season",
+    "phase": "unknown",
+    "energy": 77.96610169491525,
+    "current_stats": {
+      "spd": 1048,
+      "sta": 460,
+      "pwr": 722,
+      "guts": 269,
+      "wit": 390
+    },
+    "decision": "sta",
+    "reward": 1.678,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T18:28:23.396206",
+    "character": "Unknown",
+    "year": "Finale Season",
+    "phase": "unknown",
+    "energy": 56.779661016949156,
+    "current_stats": {
+      "spd": 1060,
+      "sta": 488,
+      "pwr": 734,
+      "guts": 287,
+      "wit": 402
+    },
+    "decision": "pwr",
+    "reward": 1.394,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "smart-energy",
+      "trainer_behavior": "auto",
+      "priority_weight": "LIGHT",
+      "session_id": "default"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T18:29:10.124724",
+    "character": "Unknown",
+    "year": "Finale Season",
+    "phase": "unknown",
+    "energy": 35.16949152542373,
+    "current_stats": {
+      "spd": 1072,
+      "sta": 508,
+      "pwr": 763,
+      "guts": 299,
+      "wit": 414
+    },
+    "decision": "rest",
+    "reward": 0,
+    "metadata": {
+      "script_version": "v1.6",
+      "ai_mode": "auto-rest"
+    }
+  }
+]
